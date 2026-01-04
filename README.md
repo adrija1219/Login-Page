@@ -1,4 +1,4 @@
-# 🔐 Modern Login & Registration Popup | Glassmorphism UI
+# 🔐 Modern Login & Registration Popup 
 
 A responsive authentication UI component built using HTML5, CSS3, and Vanilla JavaScript.
 This project demonstrates frontend engineering best practices, modern UI/UX design, and clean DOM manipulation through a glassmorphism-styled login and registration modal with smooth animations.
